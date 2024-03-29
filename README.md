@@ -13,5 +13,3 @@
 ## Apollo
 
 ## StoryBook
-
-## React Hook Form
